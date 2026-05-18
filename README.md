@@ -3,6 +3,7 @@
 Quantifying the gas-power coupling on MB prices across market regimes
 and around the February 2026 Strait of Hormuz closure, using TTF and
 TERNA data (Jan 2024 – Apr 2026).
+<img width="1465" height="443" alt="image" src="https://github.com/user-attachments/assets/32cf2895-e486-4694-8d57-46eeaba58dcb" />
 
 ---
 
