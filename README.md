@@ -56,7 +56,7 @@ than a single coefficient.
 Five univariate OLS `power = α + β·TTF + ε` via `statsmodels`, subsetting
 at quarter-hourly resolution before daily aggregation. Structural break
 identified via TTF `pct_change` (2 March 2026, first trading day after the
-closure announced 28 February).
+closure announced).
 
 ---
 
