@@ -36,15 +36,6 @@ backtesting of regime-conditional bidding strategies for a BESS operator.
 
 ---
 
-## Why it matters
-
-Treating TTF as a fixed-coefficient driver in any MB forecasting framework
-mis-specifies its role. This feeds the two-layer thesis architecture: TTF
-enters the ARIMAX volume forecast with a regime-conditional treatment rather
-than a single coefficient.
-
----
-
 ## Data and method
 
 | Source        | Data                       | Frequency | Period          |
