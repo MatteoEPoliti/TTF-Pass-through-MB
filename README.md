@@ -40,7 +40,7 @@ backtesting of regime-conditional bidding strategies for a BESS operator.
 
 | Source        | Data                       | Frequency | Period          |
 |---------------|----------------------------|-----------|-----------------|
-| Yahoo Finance | TTF settlement (`TTF=F`)   | Daily     | Jan 2022 – 2026 |
+| Yahoo Finance | TTF settlement (`TTF=F`)   | Daily     | Jan 2024 – 2026 |
 | TERNA         | MB volumes and prices, IT-North/Centre | 15-min | Jan 2024 – 2026 |
 
 15-min MB data aggregated to daily median (robust to intraday outliers).
